@@ -1,1 +1,1 @@
-[http://danielribeiro.github.io]
+http://danielribeiro.github.io
